@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="5d6ff121-33ec-463e-b8ff-ba960c6647d6" name="변경" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/Greedy_Algorithm.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A를 B로 만들기.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/강의실 배정.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/거스름돈.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/구명보트 (프로그래머스).py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/꿀 따기.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/단어 수학.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/동전 0.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/뒤집기 (DFS.Ver).py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/로프.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/반품 회수.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/보석 도둑.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/불안정한 수열.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/세탁소 사장 동혁.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/수들의 합.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/순회 강연.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/스케이트 연습.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/잃어버린 괄호.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/전자레인지.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/컵라면.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/회의실 배정.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="2u1TiS4E6EqYzRsAf6N3e3f6OwN" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.단어 수학.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;
+  }
+}</component>
+  <component name="RunManager">
+    <configuration name="단어 수학" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Greedy_Algorithm" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/단어 수학.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.단어 수학" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-975db3bf15a3-31b6be0877a2-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-241.18034.82" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="애플리케이션 수준" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="디폴트 작업">
+      <changelist id="5d6ff121-33ec-463e-b8ff-ba960c6647d6" name="변경" comment="" />
+      <created>1741415208127</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1741415208127</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/꿀 따기.py</url>
+          <line>20</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
