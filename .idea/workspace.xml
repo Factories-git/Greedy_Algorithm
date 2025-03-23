@@ -4,34 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5d6ff121-33ec-463e-b8ff-ba960c6647d6" name="변경" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/Greedy_Algorithm.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/A를 B로 만들기.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/강의실 배정.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/거스름돈.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/구명보트 (프로그래머스).py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/꿀 따기.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/단어 수학.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/동전 0.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/뒤집기 (DFS.Ver).py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/로프.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/반품 회수.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/보석 도둑.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/불안정한 수열.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/세탁소 사장 동혁.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/수들의 합.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/순회 강연.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/스케이트 연습.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/잃어버린 괄호.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/전자레인지.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/컵라면.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/회의실 배정.py" afterDir="false" />
+    <list default="true" id="5d6ff121-33ec-463e-b8ff-ba960c6647d6" name="변경" comment="Greedy_new">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,6 +22,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Factories-git&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Factories-git/Greedy_Algorithm.git&quot;,
+    &quot;accountId&quot;: &quot;c9caa555-d422-42ea-8075-e875be8cb19d&quot;
+  }
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 7
 }</component>
@@ -66,7 +52,7 @@
     &quot;git-widget-placeholder&quot;: &quot;master&quot;
   }
 }</component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Python.저울">
     <configuration name="단어 수학" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Greedy_Algorithm" />
       <option name="ENV_FILES" value="" />
@@ -89,8 +75,31 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="저울" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Greedy_Algorithm" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/저울.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.저울" />
         <item itemvalue="Python.단어 수학" />
       </list>
     </recent_temporary>
@@ -111,7 +120,20 @@
       <option name="presentableId" value="Default" />
       <updated>1741415208127</updated>
     </task>
+    <task id="LOCAL-00001" summary="Greedy_new">
+      <option name="closed" value="true" />
+      <created>1741423057029</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1741423057029</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Greedy_new" />
+    <option name="LAST_COMMIT_MESSAGE" value="Greedy_new" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
